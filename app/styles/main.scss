@@ -1,0 +1,85 @@
+@import "bootstrap-sass/lib/bootstrap";
+
+/* Put your CSS here */
+html, body {
+  // margin: 20px;
+}
+
+body {
+    background: #DBDBDB;
+}
+
+.logo_text {
+    font-family: Arial, sans-serif;
+    line-height: 1em;
+    color: #fff8db;
+    font-weight:bold;
+    font-size: 68px;
+    text-shadow:0px 0px 0 rgb(223,216,187),1px 1px 0 rgb(202,195,166),2px 2px 0 rgb(180,173,144),3px 3px 0 rgb(158,151,122), 4px 4px 0 rgb(136,129,100),5px 5px 4px rgba(0,0,0,0.6),5px 5px 1px rgba(0,0,0,0.5),0px 0px 4px rgba(0,0,0,.2);
+    padding-bottom: 20px;
+}
+
+.nav_text {
+    font-family: Arial, sans-serif;
+    line-height: 1em;
+    color: #fff8db;
+    font-weight:bold;
+    font-size: 68px;
+    text-shadow:0px 0px 0 rgb(223,216,187),1px 1px 0 rgb(202,195,166),2px 2px 0 rgb(180,173,144),3px 3px 0 rgb(158,151,122), 4px 4px 0 rgb(136,129,100),5px 5px 4px rgba(0,0,0,0.6),5px 5px 1px rgba(0,0,0,0.5),0px 0px 4px rgba(0,0,0,.2);
+}
+
+.nav_butts {
+    margin-top: 50px;
+    margin-left: 4px;
+}
+
+.post {
+    background-color: #FFFFFF;
+    margin-bottom: 10px;
+    box-shadow: 2px 2px 3px #aaaaaa;
+    margin-left: 10px;
+}
+
+.post_title {
+    color: #6B6B6B;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    padding-right: 10px;
+}
+
+.footer {
+    padding-top: 20px;
+    padding-right: 20px;
+}
+
+// .footer_content {
+//     padding-right: 100px;
+// }
+
+// body {
+//     background: #fafafa;
+//     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+//     color: #333;
+// }
+
+// .hero-unit {
+//     margin: 50px auto 0 auto;
+//     width: 300px;
+//     font-size: 18px;
+//     font-weight: 200;
+//     line-height: 30px;
+//     background-color: #eee;
+//     border-radius: 6px;
+//     padding: 60px;
+// }
+
+// .hero-unit h1 {
+//     font-size: 60px;
+//     line-height: 1;
+//     letter-spacing: -1px;
+// }
+
+// #logo_text {
+//     margin-left: 5px;
+//     color: #FFFFFF;
+// }

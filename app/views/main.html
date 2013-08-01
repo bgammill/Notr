@@ -1,0 +1,22 @@
+<div class="row">
+	<div class="span2">
+		<h1 class="logo_text Three-Dee">Notr</h1>
+	</div>
+<!-- 	<div class="span9">
+		<a href="#" class="btn btn-small btn-primary disabled pull-right nav_butts">contact</a>
+		<a href="#/share" class="btn btn-small btn-primary disabled pull-right nav_butts">share link</a>
+	</div> -->
+</div>
+<div class="row">
+	<div ng-repeat="post in posts" class="row post_div">
+		<div class="span10 post">
+			<blockquote>
+				<h4 class="post_title">{{post.title}}</h4>
+				<small>{{post.date}}</small>
+			</blockquote>
+		</div>
+	</div>
+	<div class="span2 post pull-right">
+
+	</div>
+</div>
